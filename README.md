@@ -48,18 +48,18 @@
 
 ## 🧠 About Me
 
-I'm an **AI / ML Engineer** and M.Tech student in Computational Data Science at **NIT Karnataka (NITK Surathkal)**, graduating in 2026. Before that, I spent ~2 years as an Infrastructure & Cloud DevOps Engineer at **Cognizant** — building on AWS, writing Terraform, and running GitLab CI/CD pipelines — which means I don't just train models, I know how to ship them.
+I'm an **AI / ML Engineer** and M.Tech student in Computational Data Science at **NIT Karnataka (NITK Surathkal)**, graduating in 2026. Before that, I spent ~2 years as an Infrastructure & Cloud DevOps Engineer at **Cognizant** building on AWS, writing Terraform, and running GitLab CI/CD pipelines.
 
-Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGraph-based agents, and graph-based ML models. I care about the full stack — from retrieval logic and eval pipelines to async APIs and streaming responses.
+Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGraph-based agents, and graph-based ML models. I care about the full stack from retrieval logic and eval pipelines to async APIs and streaming responses.
 
 <br/>
 
 |  |  |
 |--|--|
-| 🔭 **Building** | Text-to-SQL agent — FastAPI · LangGraph · Groq · Streamlit |
+| 🔭 **Building** | Multi-Agent Code Review & PR Analysis System |
 | 🌱 **Learning** | LLM fine-tuning (QLoRA/Unsloth) · LLM inference optimization · ML system design |
 | 💼 **Open to** | AI Engineer · ML Engineer · GenAI Engineer · Data Scientist roles |
-| 📍 **Location** | India — Bangalore · Pune · Hyderabad · Mumbai · Remote |
+| 📍 **Location** | India - Bangalore · Pune · Hyderabad · Mumbai · Remote |
 
 <br/>
 
@@ -176,8 +176,7 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
 ## 🌱 Currently Building & Learning
 
 ```text
-📦  Building   →  Text-to-SQL Agent        FastAPI · LangGraph · Groq · Streamlit
-                   (Phase 1 backend complete, Phases 2–3 in progress)
+📦  Building   →  Multi-Agent Code Review & PR Analysis System
 
 📖  Learning   →  LLM Fine-tuning          QLoRA · Unsloth · PEFT
 📖  Learning   →  LLM Inference Optim.     KV Cache · Flash Attention · Speculative Decoding
