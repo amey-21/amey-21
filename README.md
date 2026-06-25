@@ -34,7 +34,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amey-jadhav21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyjadhav152@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17rZaV9pVPlhVlXFCzKGNCVv0U1YZHTOK/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tpqWQkdC5dHUQ4kU4O9vh4JvyuGYPrn-/view?usp=sharing)
 <!-- TODO: Add portfolio/website badge below if you build one -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev) -->
 
@@ -217,7 +217,7 @@ If you're hiring or want to collaborate on something interesting — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amey-jadhav21)
 [![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyjadhav152@gmail.com)
-[![Resume](https://img.shields.io/badge/View_my_Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17rZaV9pVPlhVlXFCzKGNCVv0U1YZHTOK/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View_my_Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tpqWQkdC5dHUQ4kU4O9vh4JvyuGYPrn-/view?usp=sharing)
 
 </div>
 
