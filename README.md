@@ -34,7 +34,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amey-jadhav21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyjadhav152@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tpqWQkdC5dHUQ4kU4O9vh4JvyuGYPrn-/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LvFDoPjN_P01e7GXJVz1Jzpep8j4RAv8/view?usp=sharing)
 <!-- TODO: Add portfolio/website badge below if you build one -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev) -->
 
@@ -129,6 +129,13 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
     alt="NASA CMAPSS RUL Benchmark"
   />
 </a>
+<a href="https://github.com/amey-21/ai-news">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=amey-21&repo=ai-news&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=999999&text_color=8b949e"
+    alt="AI News Digest Agent"
+  />
+</a>
 <a href="https://github.com/amey-21/Transformers">
   <img
     width="48%"
@@ -162,6 +169,7 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
 | [**ragent**](https://github.com/amey-21/ragent) | Hybrid RAG · Dense + BM25 + RRF + CrossEncoder · LangGraph ReAct agent · FastAPI SSE streaming · LLM-as-judge eval (Faithfulness **0.875**, Quality **0.925**) | Python · LangGraph · FastAPI · ChromaDB · Groq |
 | [**GNN Fraud Detection**](https://github.com/amey-21/GNN-for-Fraud-Detection) | GraphSAGE on a **590K+ node** transaction graph · ROC-AUC **0.9554** · PyTorch Geometric | Python · PyG · GraphSAGE · PyTorch |
 | [**NASA CMAPSS RUL Benchmark**](https://github.com/amey-21/Nasa-cmapss-rul-benchmark) | 5-model benchmark · CNN-LSTM hybrid · Val RMSE **3.60**, R² **0.996** · Full PyTorch pipeline | Python · PyTorch · scikit-learn |
+| [**AI News Digest Agent**](https://github.com/amey-21/ai-news) | Autonomous agent · Tavily + RSS search · Batched async OpenAI summarization · Gmail SMTP delivery · GitHub Actions cron scheduling — zero manual effort | Python · OpenAI · Tavily · feedparser · GitHub Actions |
 | [**Transformers from Scratch**](https://github.com/amey-21/Transformers) | Full Transformer (Attention → Encoder → Decoder) from first principles · English→Marathi NMT | Python · PyTorch · NumPy |
 | [**Blog Writing Agent**](https://github.com/amey-21/blog-writing-agent) | LangGraph multi-agent pipeline · Router → Orchestrator → Workers → Reducer · Parallel section generation via Send API | Python · LangGraph · Groq · Tavily · Streamlit |
 
@@ -217,7 +225,7 @@ If you're hiring or want to collaborate on something interesting — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amey-jadhav21)
 [![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyjadhav152@gmail.com)
-[![Resume](https://img.shields.io/badge/View_my_Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tpqWQkdC5dHUQ4kU4O9vh4JvyuGYPrn-/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View_my_Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LvFDoPjN_P01e7GXJVz1Jzpep8j4RAv8/view?usp=sharing)
 
 </div>
 
