@@ -34,7 +34,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amey-jadhav21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyjadhav152@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LvFDoPjN_P01e7GXJVz1Jzpep8j4RAv8/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17rZaV9pVPlhVlXFCzKGNCVv0U1YZHTOK/view?usp=sharing)
 <!-- TODO: Add portfolio/website badge below if you build one -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev) -->
 
@@ -48,7 +48,7 @@
 
 ## 🧠 About Me
 
-I'm an **AI / ML Engineer** and M.Tech student in Computational Data Science at **NIT Karnataka (NITK Surathkal)**, graduating in 2026. Before that, I spent ~2 years as an Infrastructure & Cloud DevOps Engineer at **Cognizant** building on AWS, writing Terraform, and running GitLab CI/CD pipelines.
+I'm an **AI / ML Engineer** and M.Tech Computational Data Science at **NIT Karnataka (NITK Surathkal)**,2026. Before that, I spent ~2 years as an Infrastructure & Cloud DevOps Engineer at **Cognizant** building on AWS, writing Terraform, and running GitLab CI/CD pipelines which means I don't just train models, I know how to ship them.
 
 Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGraph-based agents, and graph-based ML models. I care about the full stack from retrieval logic and eval pipelines to async APIs and streaming responses.
 
@@ -56,7 +56,6 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
 
 |  |  |
 |--|--|
-| 🔭 **Building** | Multi-Agent Code Review & PR Analysis System |
 | 🌱 **Learning** | LLM fine-tuning (QLoRA/Unsloth) · LLM inference optimization · ML system design |
 | 💼 **Open to** | AI Engineer · ML Engineer · GenAI Engineer · Data Scientist roles |
 | 📍 **Location** | India - Bangalore · Pune · Hyderabad · Mumbai · Remote |
@@ -100,7 +99,7 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
 ## 🚀 Featured Projects
 
 <!-- Row 1: Top two projects -->
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/amey-21/ragent">
   <img
@@ -117,23 +116,16 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
   />
 </a>
 
-</div>
+</div> -->
 
 <!-- Row 2 -->
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/amey-21/Nasa-cmapss-rul-benchmark">
   <img
     width="48%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=amey-21&repo=Nasa-cmapss-rul-benchmark&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=999999&text_color=8b949e"
     alt="NASA CMAPSS RUL Benchmark"
-  />
-</a>
-<a href="https://github.com/amey-21/ai-news">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=amey-21&repo=ai-news&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=999999&text_color=8b949e"
-    alt="AI News Digest Agent"
   />
 </a>
 <a href="https://github.com/amey-21/Transformers">
@@ -144,10 +136,10 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
   />
 </a>
 
-</div>
+</div> -->
 
 <!-- Row 3 -->
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/amey-21/blog-writing-agent">
   <img
@@ -157,19 +149,19 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
   />
 </a>
 
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Project detail table -->
 <div align="center">
 
 | Project | What makes it interesting | Stack |
 |---------|--------------------------|-------|
+| [**Multi-Agent PR Review**](https://github.com/amey-21/multi-agent-pr-review) | Deployed as a real GitHub App on Fly.io · Four parallel specialized agents (~1.6x speedup) via LangGraph fan-out/fan-in · MCP server for IDE integration. | Python · LangGraph · Docker · Fly.io · CI/CD |
 | [**ragent**](https://github.com/amey-21/ragent) | Hybrid RAG · Dense + BM25 + RRF + CrossEncoder · LangGraph ReAct agent · FastAPI SSE streaming · LLM-as-judge eval (Faithfulness **0.875**, Quality **0.925**) | Python · LangGraph · FastAPI · ChromaDB · Groq |
 | [**GNN Fraud Detection**](https://github.com/amey-21/GNN-for-Fraud-Detection) | GraphSAGE on a **590K+ node** transaction graph · ROC-AUC **0.9554** · PyTorch Geometric | Python · PyG · GraphSAGE · PyTorch |
 | [**NASA CMAPSS RUL Benchmark**](https://github.com/amey-21/Nasa-cmapss-rul-benchmark) | 5-model benchmark · CNN-LSTM hybrid · Val RMSE **3.60**, R² **0.996** · Full PyTorch pipeline | Python · PyTorch · scikit-learn |
-| [**AI News Digest Agent**](https://github.com/amey-21/ai-news) | Autonomous agent · Tavily + RSS search · Batched async OpenAI summarization · Gmail SMTP delivery · GitHub Actions cron scheduling — zero manual effort | Python · OpenAI · Tavily · feedparser · GitHub Actions |
 | [**Transformers from Scratch**](https://github.com/amey-21/Transformers) | Full Transformer (Attention → Encoder → Decoder) from first principles · English→Marathi NMT | Python · PyTorch · NumPy |
 | [**Blog Writing Agent**](https://github.com/amey-21/blog-writing-agent) | LangGraph multi-agent pipeline · Router → Orchestrator → Workers → Reducer · Parallel section generation via Send API | Python · LangGraph · Groq · Tavily · Streamlit |
 
@@ -184,29 +176,10 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
 ## 🌱 Currently Building & Learning
 
 ```text
-📦  Building   →  Multi-Agent Code Review & PR Analysis System
-
 📖  Learning   →  LLM Fine-tuning          QLoRA · Unsloth · PEFT
 📖  Learning   →  LLM Inference Optim.     KV Cache · Flash Attention · Speculative Decoding
 📖  Learning   →  ML System Design         Scalable retrieval · model serving · latency trade-offs
 ```
-
-<br/>
-
----
-
-<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=8b949e&langs_count=8&hide=jupyter%20notebook"
-  alt="Top Languages"
-/>
-
-</div>
 
 <br/>
 
@@ -218,14 +191,14 @@ Today I build **production-grade GenAI systems**: hybrid RAG pipelines, LangGrap
 
 <div align="center">
 
-I'm actively looking for **AI Engineer · ML Engineer · GenAI Engineer** roles.<br/>
-If you're hiring or want to collaborate on something interesting — reach out.
+I'm actively looking for **AI Engineer · ML Engineer · GenAI Engineer · Data Scientist** roles.<br/>
+If you're hiring or want to collaborate on something interesting reach out.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amey-jadhav21)
 [![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameyjadhav152@gmail.com)
-[![Resume](https://img.shields.io/badge/View_my_Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LvFDoPjN_P01e7GXJVz1Jzpep8j4RAv8/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View_my_Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17rZaV9pVPlhVlXFCzKGNCVv0U1YZHTOK/view?usp=sharing)
 
 </div>
 
